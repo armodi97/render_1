@@ -1,4 +1,5 @@
 import streamlit as st
+import altair as alt
 
 st.header('Lanzar una moneda')
 
